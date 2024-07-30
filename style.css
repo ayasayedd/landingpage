@@ -47,7 +47,7 @@ body{padding: 10px; max-width: 1280px; text-align: center;
       }
       .flex-container1 img
       {
-        max-width: 80px;
+        max-width: 50px;
       }
       .top{
         font-family: "IBM Plex Sans Arabic", sans-serif;
@@ -126,7 +126,11 @@ body{padding: 10px; max-width: 1280px; text-align: center;
   }
   .flex-footer {
     flex-direction: row;
-    display: flex;}
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 300px;
+  }
     .footer-content {
       flex-direction: column;
       display: flex;
@@ -142,4 +146,5 @@ body{padding: 10px; max-width: 1280px; text-align: center;
         margin-top: 5px;
         margin-bottom: 5px;
     }
+  
   
