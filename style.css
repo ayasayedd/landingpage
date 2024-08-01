@@ -48,6 +48,7 @@ body{padding: 10px; max-width: 1280px; text-align: center;
       .flex-container1 img
       {
         max-width: 50px;
+        margin-right: 15px;
       }
       .top{
         font-family: "IBM Plex Sans Arabic", sans-serif;
@@ -86,7 +87,7 @@ body{padding: 10px; max-width: 1280px; text-align: center;
   {
   
     max-width: 20px;
-    margin: 10px;
+    margin: 15px;
   }
   
   .blog-buttons {
